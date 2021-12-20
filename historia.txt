@@ -2,4 +2,4 @@ Este es un archivo nuevo
 
 De prueba
 
-para probar
+para intentar, intentar saber de git y github
