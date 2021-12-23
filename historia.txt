@@ -3,3 +3,5 @@ Este es un archivo nuevo
 De prueba
 
 para intentar, intentar saber de git y github
+
+hoy veré nuevas lecciones
