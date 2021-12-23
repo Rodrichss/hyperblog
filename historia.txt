@@ -4,4 +4,4 @@ De prueba
 
 para intentar, intentar saber de git y github
 
-hoy veré nuevas lecciones
+hoy veré nuevas lecciones, específicamente del primer bloque
