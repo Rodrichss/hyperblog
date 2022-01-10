@@ -2,4 +2,6 @@ Este es un archivo nuevo
 
 De prueba
 
+Juan es una persona que nació en México
+
 Mañana nos enfocaremos en su vida laboral
