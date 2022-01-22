@@ -1,4 +1,4 @@
-# Hyperblog :tw-1f47e:
+# Hyperblog 
 Un blog de prueba
 > Aprender acerca de git y github me hace contar con herramientas super útiles a la hora de trabajar en equipo, contribuir a la comunidad o simplemente mantener un historial de cambios
 > - probablemente alguien
