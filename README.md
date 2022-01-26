@@ -10,5 +10,6 @@ Un blog de prueba
 * Obras maestras
 * Créditos a los créditos
 * Incluye ejemplos
+* Disponible para todas las edades
 
 Debe recordar: **Este readme.md es un chiste**. Diseñado para el ejemplo. No te lo tomes en serio. [**Mira**](https://lichess.org/ "Mira").
