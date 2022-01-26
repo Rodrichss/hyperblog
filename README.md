@@ -8,5 +8,6 @@ Un blog de prueba
 * La puerta oscura
 * Maze Runner
 * Obras maestras
+*Créditos a los créditos
 
 Debe recordar: **Este readme.md es un chiste**. Diseñado para el ejemplo. No te lo tomes en serio. [**Mira**](https://lichess.org/ "Mira").
